@@ -1,0 +1,18 @@
+body {
+  padding: 50px 50px;
+  background-color: aqua;
+}
+h1 {
+  font-size: larger;
+  color: blue;
+}
+
+.conatiner {
+  width: 500px;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 33px;
+  background-color: crimson;
+}

@@ -92,6 +92,7 @@ export default function Checkbox() {
 //                 onClick={() => handleClick(index)}
 //               />
 //               <li>
+                   {el.name}
 //                 <span
 //                   style={{ cursor: 'pointer', color: 'red', marginLeft: '5px' }}
 //                   onClick={() => handleRemove(index)}
